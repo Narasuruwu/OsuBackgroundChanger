@@ -7,7 +7,7 @@ Replaces osu background without supporter
 Put the executable in your osu root folder
 
 To use your selected skins background *~~if it got one~~* put "#UseSkinBg" in your config file    
-note: "#UseSkinBg" needs to be above "Skin ="
+note: "#UseSkinBg" needs to be anywhere above "Skin = "
 
 If you want to use a custom background either put "##UseSkinBg" or don't put anything at all in the config file
 If you want to use a custom background you also need to put your desired background image (png or jpg) in "\Osu\Data\bg\" and name it either "bg.jpg" or "bg.png"
